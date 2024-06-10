@@ -17,3 +17,11 @@ This Python program helps you manage your kitchen garden by allowing you to add,
 
    ```bash
    git clone https://github.com/PraneetMeruvu/Garden-manager
+
+python garden_manager.py
+
+
+### Usage
+
+1. Choose an option from the menu by entering the corresponding number.
+2. Follow the prompts to add, view, edit, or delete plants, or log activities.
